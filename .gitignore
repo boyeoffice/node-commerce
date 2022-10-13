@@ -1,8 +1,7 @@
 node_modules
 build
 coverage
-.vscode
 .DS_STORE
-.env
 tmp
 public/assets/*
+config.bat
